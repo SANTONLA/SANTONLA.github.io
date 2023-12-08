@@ -1,10 +1,10 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Silvia Anton
+username: santonla
+bio: "¡Hola! Soy Santonla, analista de datos y Datacrafter."
+site: [https://santonlaempresa.wordpress.com]
 avatar: johndoe.png
-email: mail@johndoe.com
+email: mail@santonla.com
 social:
     - title: "github"
       url: "https://github.com/johndoe"
