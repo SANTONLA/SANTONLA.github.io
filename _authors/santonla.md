@@ -3,7 +3,7 @@ name: Silvia Anton
 username: santonla
 bio: "¡Hola! Soy Santonla, analista de datos y Datacrafter."
 site: [https://santonlaempresa.wordpress.com]
-avatar: johndoe.png
+avatar: IMG_3684.JPG
 email: mail@santonla.com
 social:
     - title: "github"

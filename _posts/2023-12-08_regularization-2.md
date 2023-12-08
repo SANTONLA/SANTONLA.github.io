@@ -1,4 +1,4 @@
-![logo.png](logo.png)
+![the data crafery shop.jpg](logo.png)
 
 #### Módulo 2: Machine Learning Aplicado
 
