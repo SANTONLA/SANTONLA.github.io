@@ -1,11 +1,11 @@
 # Add Authors here
-johndoe:
-   name: John Doe
-   username: johndoe
-   site: http://johndoe.com
+santonla:
+   name: Silvia Anton
+   username: santonla
+   site: https://santonlaempresa.wordpress.com/
    avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+   bio: "Hi soy Santonla."
+   email: mail@santonla.com
    social:
       - title: "github"
         url: "https://github.com/johndoe"
